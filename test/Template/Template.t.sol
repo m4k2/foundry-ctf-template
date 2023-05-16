@@ -9,7 +9,7 @@ contract ContractTest is Test {
     }
 
     function testExploit() public {
-        vm.createSelectFork(vm.rpcUrl("paradigm"));
+        vm.createSelectFork(vm.rpcUrl("CTFnetwork"));
         
 
     }
