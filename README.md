@@ -2,7 +2,7 @@
 
 This was a template for the Spearbit Rearguard team (or anyone else who finds it) to use for Paradigm CTF 2022.
 
-I update it to match any CTF.
+I update it to match any CTF, you can found the template [here](https://github.com/m4k2/foundry-ctf-template).
 
 ## Set Up
 
@@ -20,3 +20,4 @@ Run tests with this cmd : `forge test --match-path test/Template/Template.t.sol 
 
 # WriteUp
 
+Compose your write-up in this section and share it. 
