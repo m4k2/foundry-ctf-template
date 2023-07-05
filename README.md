@@ -7,6 +7,7 @@ I update it to match any CTF, you can found the template [here](https://github.c
 ## Set Up
 
 - Create a .env file in the root directory with `RPC_URL` and `PRIVATE_KEY` (these will be used for submission scripts)
+- Run the commande `source .env` to update these new env variable.
 - Add your RPC url to the `foundry.toml` file (this will be used to fork for tests)
 
 ## Running Challenges
