@@ -7,9 +7,7 @@ import "../src/chall.sol";
 
 contract ContractTest is Test {
 
-    Chall public chall;
     function setUp() public {
-        chall = new Chall();
     }
 
     function testExploit() public {
